@@ -25,6 +25,11 @@ body {
   justify-content: center;
 }
 
+.main_back {
+  margin-top: 200px;
+  margin-bottom: 250px;
+}
+
 .Three_column {
   display: flex;
   border: 2px solid var(--transparent-white);
