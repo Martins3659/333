@@ -35,7 +35,7 @@ body {
   border: 2px solid var(--transparent-white);
   justify-content: center;
   margin-top: 150px;
-  height: 400px;
+  height: 500px;
   background-color: var(--very-light-gray);
   max-width: 1000px;
 }
@@ -47,7 +47,7 @@ body {
     max-width: 375px;
     height: 500px;
     padding-top: 200px;
-    margin-bottom: 300px;
+    margin: 100px 0 250px 0;
   }
 }
 
@@ -108,20 +108,33 @@ body {
     border-bottom-left-radius: 0px;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 0px;
+    height: 390px;
+    width: 350px;
   }
 
   .box_1 img {
     padding-top: 20px;
   }
 
+  .box_1 h1 {
+    color: var(--very-light-gray);
+    font-family: "Big Shoulders Display", sans-serif;
+    font-weight: 700;
+  }
+
   .box_1 p {
-    padding-top: 0;
-    font-size: 14px;
+    color: var(--transparent-white);
+    padding: 0 70px 30px 0;
+    font-size: 15px;
+    font-weight: 400;
     line-height: 1.8em;
+    font-family: "Lexend Deca", sans-serif;
   }
 
   .box_1 button {
     margin-bottom: 30px;
+    font-family: "Lexend Deca", sans-serif;
+    font-weight: 400;
   }
 }
 
@@ -178,18 +191,33 @@ body {
 /* MEDIA QUARY FOR BOX_2 FROM 500PX TO 0PX */
 
 @media (max-width: 500px) {
+  .box_2 {
+    height: 390px;
+    width: 350px;
+  }
   .box_2 img {
     padding-top: 20px;
   }
 
+  .box_2 h1 {
+    color: var(--very-light-gray);
+    font-family: "Big Shoulders Display", sans-serif;
+    font-weight: 700;
+  }
+
   .box_2 p {
-    padding-top: 0;
-    font-size: 14px;
+    color: var(--transparent-white);
+    padding: 0 70px 30px 0;
+    font-size: 15px;
+    font-weight: 400;
     line-height: 1.8em;
+    font-family: "Lexend Deca", sans-serif;
   }
 
   .box_2 button {
     margin-bottom: 30px;
+    font-family: "Lexend Deca", sans-serif;
+    font-weight: 400;
   }
 }
 
@@ -247,18 +275,34 @@ body {
 /* MEDIA QUARY FOR BOX_2 FROM 500PX TO 0PX */
 
 @media (max-width: 500px) {
+  .box_3 {
+    height: 390px;
+    width: 350px;
+  }
+
   .box_3 img {
     padding-top: 20px;
   }
 
+  .box_3 h1 {
+    color: var(--very-light-gray);
+    font-family: "Big Shoulders Display", sans-serif;
+    font-weight: 700;
+  }
+
   .box_3 p {
-    padding-top: 0;
-    font-size: 14px;
+    color: var(--transparent-white);
+    padding: 0 70px 30px 0;
+    font-size: 15px;
+    font-weight: 400;
     line-height: 1.8em;
+    font-family: "Lexend Deca", sans-serif;
   }
 
   .box_3 button {
     margin-bottom: 30px;
+    font-family: "Lexend Deca", sans-serif;
+    font-weight: 400;
   }
 
   .box_3 {
