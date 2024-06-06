@@ -71,6 +71,7 @@ body {
   font-family: "Big Shoulders Display", sans-serif;
   padding: 10px 0 25px 0;
   font-weight: 700;
+  color: var(--very-light-gray);
 }
 
 .box_1 p {
@@ -157,6 +158,7 @@ body {
   font-family: "Big Shoulders Display", sans-serif;
   padding: 10px 0 25px 0;
   font-weight: 700;
+  color: var(--very-light-gray);
 }
 
 .box_2 p {
@@ -242,6 +244,7 @@ body {
   font-family: "Big Shoulders Display", sans-serif;
   padding: 10px 0 25px 0;
   font-weight: 700;
+  color: var(--very-light-gray);
 }
 
 .box_3 p {
